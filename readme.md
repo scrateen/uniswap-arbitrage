@@ -3,7 +3,7 @@
 
 ### 0.Foreword
 
-​	Uniswap is the most popular dex with more than 11000 trading pairs and 2B dollars liquidity. Where there is a market, there are arbitrage opportunities. On uniswap we can trade coin A for coin D follow a given path, e.g. A->B->C->D, A and D can also be the same coin, which means, you can trade A for A follow a given path, and if you are lucky, you can get more A than the original input amount! So how do we find such a path and determine the optimal input amount for maximum profit? Here we go:
+​	Uniswap is the most popular dex with more than 12000 trading pairs and 2B dollars liquidity. Where there is a market, there are arbitrage opportunities. On uniswap we can trade coin A for coin D follow a given path, e.g. A->B->C->D, A and D can also be the same coin, which means, you can trade A for A follow a given path, and if you are lucky, you can get more A than the original input amount! So how do we find such a path and determine the optimal input amount for maximum profit? Here we go:
 
 ### 1.Arbitrage problem alalysis
 
