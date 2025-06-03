@@ -1,9 +1,9 @@
 @echo off
 REM --------------------------------------------------------------------------------
-REM This script searches for Python, installs required packages, and runs main.py
+REM This script searches for Python, installs required packages, and runs main.py.
 REM --------------------------------------------------------------------------------
 
-REM Enable delayed variable expansion for dynamic variable usage
+REM Enable delayed variable expansion for dynamic variable usage.
 setlocal enabledelayedexpansion
 
 REM Set the requirements flag (used later by the Python script)
