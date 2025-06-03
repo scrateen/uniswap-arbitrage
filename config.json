@@ -1,5 +1,5 @@
 {
-	"start": "weth",
+
 	"maxHops": 6,
 	"minProfit": 0.01,
 	"pairs": "random",
