@@ -15,4 +15,3 @@ class MyThread(threading.Thread):
         except Exception as e:
             print('thread exception:', e)
             return None
-
