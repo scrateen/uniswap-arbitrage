@@ -74,4 +74,3 @@ class BatchHTTPProvider(HTTPProvider):
                           "Request: %s, Response: %s",
                           self.endpoint_uri, text, response)
         return response
-
