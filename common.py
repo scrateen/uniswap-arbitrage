@@ -330,3 +330,4 @@ def getPairs(symbol='USDC', thresh = 500):
                 ret.append(pair)
     print('count:', len(ret))
     json.dump(ret, open('files/'+symbol+'_pairs.json', 'w'))
+
