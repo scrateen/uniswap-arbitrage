@@ -11,4 +11,3 @@ for rpc in rpcs:
         print(rpc, bn)
     except:
         print('bad:', rpc)
-
